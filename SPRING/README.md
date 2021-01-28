@@ -5,3 +5,5 @@
 ## Fast Campus
 
 ### Java 웹 개발 마스터 올인원 패키지 Online
+
+https://www.notion.so/a38238e8b2404e1bba425dc6d16e2ebf?v=e33789199135498ebe914fe74522277b
